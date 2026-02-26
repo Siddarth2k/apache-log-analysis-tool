@@ -1,4 +1,4 @@
-# 🔐 Apache Log Analysis & Threat Detection Tool
+# Apache Log Analysis & Threat Detection Tool
 
 A Python-based security log analysis engine that detects suspicious activity from Apache access logs, including brute-force attempts, reconnaissance scanning, and SQL injection patterns.
 
